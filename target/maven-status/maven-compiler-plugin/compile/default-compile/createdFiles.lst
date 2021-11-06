@@ -1,0 +1,9 @@
+ru\goosly\springapps\dao\PersonDAO.class
+ru\goosly\springapps\dao\Componen.class
+ru\goosly\springapps\controllers\ThirdController.class
+ru\goosly\springapps\config\MySpringMvcDispatcherServletInitializer.class
+ru\goosly\springapps\models\Person.class
+ru\goosly\springapps\controllers\FirstController.class
+ru\goosly\springapps\config\SpringConfig.class
+ru\goosly\springapps\controllers\PeopleController.class
+ru\goosly\springapps\controllers\SecondController.class
